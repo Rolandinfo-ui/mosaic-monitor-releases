@@ -21,7 +21,7 @@ The screenshots use **English**. The main app also supports **Hungarian**, **dar
 11. [Notifications](#notifications)
 12. [Community chat and polls](#community-chat-and-polls)
 13. [Blog, Status and Onboarding](#blog-status-and-onboarding)
-14. [Access and payments](#access-and-payments)
+14. [Access information](#access-information)
 15. [Updates](#updates)
 16. [Help and feedback](#help-and-feedback)
 
@@ -37,6 +37,8 @@ You need **Android 8.0 or later**, an internet connection and the details of the
 6. Save and allow the initial checks to finish. Your validator appears on the Validator page.
 
 Registration requires a valid validator/wallet combination. If it fails, check the name, address and connection. Current allowances determine how many validators and additional watch wallets you can add. The app indicates when activation or access needs attention.
+
+<img src="images/add-validator-light.png" alt="Add New Validator form with name and wallet address fields" width="320">
 
 ## Navigation
 
@@ -71,6 +73,10 @@ Tap **Validator Login**, enter the validator login details and required authenti
 
 The built-in authenticator recognizes supported authenticator input, shows the decoded account and can save a TOTP account for that validator. Enable automatic code use if desired, and verify that the saved account belongs to the selected validator. Never share an authenticator secret, password or live code in a public screenshot.
 
+<img src="images/validator-login-dark.png" alt="Validator login controls" width="320"> <img src="images/authenticator-light.png" alt="Built-in Authenticator setup, without saved personal data" width="320">
+
+For supported imports, expand **Built-in Authenticator setup**, enter your authenticator export/URI or Base32 input, and choose **Decode / recognize**. Check the recognized account before saving it. Enable **Automatic TOTP fill** for subsequent logins if desired. The examples above deliberately show empty fields; use your own authenticator information only on your device.
+
 After login, **Node management** offers the available controls:
 
 | Item | Purpose |
@@ -89,7 +95,11 @@ These commands affect the actual validator. Check the selected node and read the
 
 Expand the Validator page's query/response sections to inspect the latest monitoring results. They provide more detail than the overview alone.
 
+<img src="images/validator-details-dark.png" alt="Expanded validator query results and indexer information" width="320">
+
 The gateway selector supports **automatic** selection and **manual** choice. You can also change the target node where its field is offered. After changing a connection, allow the next request to finish.
+
+<img src="images/gateway-light.png" alt="Automatic/manual gateway selection and target node" width="320">
 
 An indexer warning can indicate a failed/missing response, invalid reported values or excessive block lag. Validator status and indexer condition describe different aspects of operation; inspect both when diagnosing a problem.
 
@@ -109,6 +119,8 @@ Scroll to **Wallet registry**. Each card shows **Free / Frozen**, **Total** and 
 Standalone watch wallets can be edited or removed through their detail actions. A wallet marked **Managed by Validator** is managed through its corresponding validator entry.
 
 The framed registry **Summary** covers all listed wallets, regardless of overview selection. The separate **Wallet Connection** area is distinct from adding a watch address: monitoring an address does not require connecting a wallet for payment.
+
+<img src="images/add-wallet-dark.png" alt="Add New Wallet form" width="320">
 
 ## Staking and vesting
 
@@ -179,6 +191,8 @@ When resolved, you can copy the wallet address and inspect current total balance
 
 Tap **Export**, choose **CSV**, **PDF** or **TXT**, and select filtered results or all currently loaded rows. Choose the save location in Android's file picker. Load the desired history first: exporting does not automatically fetch every historical transaction.
 
+<img src="images/transaction-export-dark.png" alt="Export loaded or filtered transactions as CSV, PDF or TXT" width="320">
+
 ## Notifications
 
 | Source | Behaviour |
@@ -213,19 +227,9 @@ Tap the **globe**, then choose **BLOG**, **STATUS** or **ONBOARDING** for Mosaic
 
 Choose **HU** for built-in Hungarian translation of supported English text, or **ORIGINAL** for the original. First use may require a download and a wait. Translation can be imperfect; embedded elements may stay in their original language. The reading frame follows the app theme, while external pages may keep their own colours. Close it to return to the app.
 
-## Access and payments
+## Access information
 
-Access may be free, trial-based or subscription-based. The activation page shows the current state, exact dates and allowances. Paid activation is inactive during free access.
-
-1. Review **current** and **next** periods and their start/end times.
-2. Review included validators/wallets and available paid extras. The payable total follows your selection.
-3. An extra bought during an active period is charged for the remaining period and ends with that period.
-4. Select the sending wallet and check the recipient address and exact amount.
-5. Create/review the order. **A pending order is not active access.**
-6. Use **SubWallet** and approve the transfer there, or send externally from the exact sender in the order to the displayed recipient for the stated amount. The recipient address is copyable.
-7. Use **Check payment** for an external or completed transfer. Access is credited when a matching payment is verified, not when an order is merely created or a wallet opens.
-
-Cancel/recreate an unpaid order if its sender or purchase needs to change. Do not send from an unrelated address and expect a match. Early renewal starts after your existing valid period, so remaining time is not lost. Follow current in-app dates and pricing rather than an old screenshot.
+The current offering may provide free access, a trial or an active subscription. The app shows the applicable state, dates and validator/wallet allowances. Follow the current in-app offer rather than example values in screenshots. This guide does not cover the Settings and activation menus in detail.
 
 ## Updates
 
@@ -244,3 +248,4 @@ Contact the developer from the app. Include the app version, phone/Android model
 Do not publicly post passwords, authenticator secrets or recovery phrases. For stale data, check the connection and visible loading/error message. For missing alerts, check notification permission, categories and quiet hours.
 
 [Back to top](#mosaic-monitor--user-guide) · [Home](../README.md) · [Download](https://github.com/Rolandinfo-ui/mosaic-monitor-releases/releases/latest)
+
