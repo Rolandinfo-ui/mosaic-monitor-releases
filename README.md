@@ -8,6 +8,17 @@ Check validators at a glance, follow sessions, manage nodes, explore rewards and
 
 Android **8.0 or newer** · **English and Hungarian** · **Dark and light themes**
 
+## Watch the app overview
+
+See Mosaic Monitor in action in these short video tours.
+
+| English narration | Hungarian narration |
+| :---: | :---: |
+| [![Watch the English app overview](docs/images/app-overview-video-cover.jpg)](https://www.youtube.com/shorts/bUoHdiaCjo4) | [![Watch the Hungarian app overview](docs/images/app-overview-video-cover.jpg)](https://www.youtube.com/shorts/AHZY37EvDd8) |
+| [Watch in English](https://www.youtube.com/shorts/bUoHdiaCjo4) | [Watch in Hungarian](https://www.youtube.com/shorts/AHZY37EvDd8) |
+
+Both videos show the app in use. The recorded phone interface is mainly Hungarian; English is also available in the app. Videos open on YouTube.
+
 ## A quick look
 
 | Validator monitoring | Wallets and rewards |
