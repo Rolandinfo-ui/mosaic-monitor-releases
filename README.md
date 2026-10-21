@@ -4,7 +4,7 @@
 
 Check validators at a glance, follow sessions, manage nodes, explore rewards and keep track of MOS. A clean interface puts everyday monitoring within easy reach.
 
-**[Download the latest APK](https://github.com/Rolandinfo-ui/mosaic-monitor-releases/releases/latest)** · **[User guide](docs/USER_GUIDE.md)** · **[Screenshot gallery](docs/SCREENSHOTS.md)**
+**[Download the latest APK](https://github.com/Rolandinfo-ui/mosaic-monitor-releases/releases/latest)** · **[User guide](docs/USER_GUIDE.md)** · **[Screenshot gallery](docs/SCREENSHOTS.md)** · **[Telegram community](https://t.me/validalas_kerdesek)**
 
 Android **8.0 or newer** · **English and Hungarian** · **Dark and light themes**
 
@@ -18,6 +18,12 @@ See Mosaic Monitor in action in these short video tours.
 | [Watch in English](https://www.youtube.com/shorts/bUoHdiaCjo4) | [Watch in Hungarian](https://www.youtube.com/shorts/AHZY37EvDd8) |
 
 Both videos show the app in use. The recorded phone interface is mainly Hungarian; English is also available in the app. Videos open on YouTube.
+
+## Join the community
+
+**[Mosaic Validator & Monitor on Telegram](https://t.me/validalas_kerdesek)**
+
+Join the community for validator discussions, Mosaic Monitor updates, bug reports and feature ideas. The group is primarily Hungarian.
 
 ## A quick look
 
