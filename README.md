@@ -19,6 +19,12 @@ See Mosaic Monitor in action in these short video tours.
 
 Both videos show the app in use. The recorded phone interface is mainly Hungarian; English is also available in the app. Videos open on YouTube.
 
+### Validator explorer and staking details
+
+**[Watch the 20-second demo](https://www.youtube.com/shorts/35ntjP4OTlQ)** — Hungarian captions, music, no narration.
+
+See the magnifier shortcut, search and Top 50, horizontal scrolling to scores, favourites, staking summaries, the composition chart and wallet contributions.
+
 ## Join the community
 
 **[Mosaic Validator & Monitor on Telegram](https://t.me/validalas_kerdesek)**
