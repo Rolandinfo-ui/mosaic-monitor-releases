@@ -4,6 +4,10 @@
 
 Check validators at a glance, follow sessions, manage nodes, explore rewards and keep track of MOS. A clean interface puts everyday monitoring within easy reach.
 
+**[Visit the website and try the web validator explorer](https://app.mosaic-monitor.workers.dev)**
+
+App overview, videos and browser-based validator search with staking details. Registration is required to use the web explorer. Available on desktop and mobile.
+
 **[Download the latest APK](https://github.com/Rolandinfo-ui/mosaic-monitor-releases/releases/latest)** · **[User guide](docs/USER_GUIDE.md)** · **[Screenshot gallery](docs/SCREENSHOTS.md)** · **[Telegram community](https://t.me/validalas_kerdesek)**
 
 Android **8.0 or newer** · **English and Hungarian** · **Dark and light themes**
