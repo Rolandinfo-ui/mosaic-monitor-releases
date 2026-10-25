@@ -20,10 +20,10 @@ See Mosaic Monitor in action in these short video tours.
 
 | English narration | Hungarian narration |
 | :---: | :---: |
-| [![Watch the English app overview](docs/images/app-overview-video-cover.jpg)](https://www.youtube.com/shorts/bUoHdiaCjo4) | [![Watch the Hungarian app overview](docs/images/app-overview-video-cover.jpg)](https://www.youtube.com/shorts/AHZY37EvDd8) |
-| [Watch in English](https://www.youtube.com/shorts/bUoHdiaCjo4) | [Watch in Hungarian](https://www.youtube.com/shorts/AHZY37EvDd8) |
+| [![Watch the English app overview](docs/images/app-overview-video-cover.jpg)](https://www.youtube.com/shorts/MOYoegUaW2w) | [![Watch the Hungarian app overview](docs/images/app-overview-video-cover.jpg)](https://www.youtube.com/shorts/AHZY37EvDd8) |
+| [Watch in English](https://www.youtube.com/shorts/MOYoegUaW2w) | [Watch in Hungarian](https://www.youtube.com/shorts/AHZY37EvDd8) |
 
-Both videos show the app in use. The recorded phone interface is mainly Hungarian; English is also available in the app. Videos open on YouTube.
+Both videos show the app in use. The English overview has English narration and an English app interface; the Hungarian overview has Hungarian narration and a Hungarian app interface. Videos open on YouTube.
 
 ### Validator explorer and staking details
 
